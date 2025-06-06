@@ -14,5 +14,5 @@ Este projeto é um jogo de xadrez simples feito em Python para rodar no terminal
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/desafio-xadrez.git
+git clone https://github.com/MatheusSixxter/desafio-xadrez
 cd desafio-xadrez
